@@ -1,0 +1,2 @@
+# BitcoinMiningRig
+Bitcoin Mining Rig
